@@ -1,6 +1,6 @@
 {
   "name": "cartodb-ui",
-  "version": "1.0.0-assets.154-postgresui-2",
+  "version": "1.0.0-assets.154-postgresui-3",
   "description": "CARTO UI frontend",
   "repository": {
     "type": "git",
